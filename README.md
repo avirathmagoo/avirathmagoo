@@ -17,34 +17,44 @@
 
 ---
 
-Embedded systems and robotics engineer with hands-on experience across the full hardware-software stack — STM32 bare-metal firmware, FreeRTOS multitasking, ROS2 autonomous navigation, and LoRa mesh communications. National hackathon winner. Three-time ARISS Special Student Achievement Award recipient for receiving SSTV transmissions from the ISS. Licensed HAM radio operator (VU2MZS).
-
----
-
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [**AidLink**](https://github.com/avirathmagoo/aidlink) | LoRa · GPS · Arduino · Python | Emergency beacon with long-range tracking, cloud dashboard, and SOS fallback — alert delivery under 3 s. **🥇 1st place, Hackwave'25 (150+ teams).** |
-| [**ResQRover**](https://github.com/avirathmagoo/ResQRover) | ROS2 · Python · Sensors | Autonomous rescue rover for disaster-zone navigation and victim detection. |
-| [**ESP32 Vibration Analyser**](https://github.com/avirathmagoo/ESP32-Vibration-Analyser) | ESP32 · FreeRTOS · FFT | 500 Hz IMU sampling, 512-point FFT, dual-core FreeRTOS split, fault detection at 94.2% accuracy — self-hosted WebSocket dashboard in flash. |
-| [**TurtleBot AI Navigator**](https://github.com/avirathmagoo/Turtlebot-AI-Room-Navigator) | ROS2 · SLAM · Nav2 | Autonomous multi-room navigation with SLAM mapping, Nav2 path planning, and Decision Tree room classifier. |
-| [**RPi Optical Motor**](https://github.com/avirathmagoo/rpi-optical-motor) | Raspberry Pi · OpenCV | Optical motor control system using computer vision on Raspberry Pi. |
+Embedded systems and robotics engineer with hands-on experience across the full hardware-software stack — STM32 bare-metal firmware, FreeRTOS multitasking, ROS2 autonomous navigation, and LoRa mesh communications. National hackathon winner. Three-time ARISS Special Student Achievement Award recipient for receiving SSTV transmissions from the ISS. Licensed HAM radio operator (VU2MZS) with 100+ worldwide contacts.
 
 ---
 
 ## Skills
 
-`STM32` `ESP32` `FreeRTOS` `Raspberry Pi` `ROS2` `SLAM` `Nav2` `LoRa` `MQTT` `WebSocket` `C` `Embedded C` `Python` `EasyEDA` `Altium Designer` `ArduPilot` `Onshape`
+**Embedded & Firmware**
+`STM32 (HAL · CubeIDE)` `ESP32 (ESP-IDF)` `FreeRTOS` `Raspberry Pi` `Arduino` `UART` `SPI` `I2C` `PWM`
+
+**Robotics & Autonomy**
+`ROS2` `SLAM` `Nav2` `Encoder Odometry` `IMU Integration` `PID Control` `Sensor Fusion` `Gazebo`
+
+**Wireless & IoT**
+`LoRa` `nRF24L01+` `MQTT` `WebSocket` `HAM Radio (Analog · Digital · SSTV)`
+
+**Hardware & PCB**
+`EasyEDA` `Altium Designer` `PCB Layout & Bring-up` `SMD Soldering` `UAV / ESC Calibration` `Onshape CAD`
+
+**Languages & Tools**
+`C` `Embedded C` `Python` `MATLAB` `Arduino C++` `Git` `Linux` `PlatformIO` `Mission Planner (ArduPilot)`
 
 ---
 
 ## Achievements
 
-- 🥇 1st place — Hackwave'25 National Hackathon (AidLink, 150+ teams)
-- 🛰️ ARISS Special Student Achievement Award — 2024, 2025, 2026
-- 📡 Guest trainer — ADYPU Pune & HPSDMA Himachal Pradesh
-- 🎖️ Chief Organiser, Avensis 2026 · Vice Chairperson, e-Yantra MSIT · Hardware Lead, IEEE MSIT
+- 🥇 **1st Place — Hackwave'25 National Hackathon** (150+ teams) — AidLink emergency beacon
+- 🥈 **2nd Prize** — Innovation Festival, NSC Delhi
+- 🥉 **3rd Prize** — Creative Robo Design, NSC Delhi
+- 🛰️ **ARISS Special Student Achievement Award** — 2024, 2025, 2026 (three-time recipient)
+- 📡 **Guest Resource Person** — HAM Radio Training, ADYPU Pune & HPSDMA Himachal Pradesh
+- 🎖️ **Chief Organiser** — Avensis 2026 Robotics Events, MSIT (30+ students)
+- 🔌 **Vice Chairperson** — e-Yantra MSIT Robotics Society · **Hardware Lead** — IEEE MSIT
+
+---
+
+## Projects
+
+[AidLink](https://github.com/avirathmagoo/aidlink) · [ResQRover](https://github.com/avirathmagoo/ResQRover) · [ESP32 Vibration Analyser](https://github.com/avirathmagoo/ESP32-Vibration-Analyser) · [TurtleBot AI Navigator](https://github.com/avirathmagoo/Turtlebot-AI-Room-Navigator) · [RPi Optical Motor](https://github.com/avirathmagoo/rpi-optical-motor)
 
 ---
 
