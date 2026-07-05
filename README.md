@@ -69,15 +69,4 @@ Embedded systems and firmware engineer with hands-on experience across the full 
 
 ---
 
-### 🚀 Projects
-
-| | Project | Stack |
-|---|---|---|
-| 🥇 | [**AidLink**](https://github.com/avirathmagoo/aidlink) — Emergency LoRa+GPS beacon | `LoRa` `GPS` `Arduino` `Python` |
-| 🤖 | [**ResQRover**](https://github.com/avirathmagoo/ResQRover) — Autonomous rescue rover | `ROS2` `Python` `Sensors` |
-| 📳 | [**ESP32 Vibration Analyser**](https://github.com/avirathmagoo/ESP32-Vibration-Analyser) — 500Hz FFT, FreeRTOS, WebSocket | `ESP32` `ESP-IDF` `FreeRTOS` |
-| 🗺️ | [**TurtleBot AI Navigator**](https://github.com/avirathmagoo/Turtlebot-AI-Room-Navigator) — SLAM + Decision Tree nav | `ROS2` `Nav2` `SLAM` |
-| 🔍 | [**RPi Optical Motor**](https://github.com/avirathmagoo/rpi-optical-motor) — Vision-based motor control | `Raspberry Pi` `OpenCV` |
-
----
 
